@@ -17,5 +17,14 @@ An Implementation of Data Structures and Algorithms, Written in Java
 - Huffman Code
 - Radix Sort
 
-## Projects
-...
+## Problems
+- Different Floors
+- Electron Heavy Numbers
+- Prime Numbers
+- Undo Arithmetic
+- Vac Train
+- Word Ladder
+- Decimal to Binary
+- Einstein's Riddle
+- N Ultimate
+- List Maker
