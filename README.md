@@ -11,13 +11,13 @@ An Implementation of Data Structures and Algorithms, Written in Java
   - Weighted
   - Unweighted
   
-## Algorithms
+## Algorithms:
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
 - Huffman Code
 - Radix Sort
 
-## Problems
+## Problems:
 - Different Floors
 - Electron Heavy Numbers
 - Prime Numbers
