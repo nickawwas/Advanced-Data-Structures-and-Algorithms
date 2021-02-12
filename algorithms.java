@@ -311,7 +311,8 @@ public class algorithms {
         return a[k];
     }
 
-    // *** NEED TO FINISH HEAP SORT, DFS, BFS
+    // NEED TO FINISH HEAP SORT, DFS, BFS
+    
     //Heap Sort - Sort Max or Min Priority Queue, Time: O(nlogn)
     public static void heapSort(int[] a) { 
         int n = a.length;
@@ -358,9 +359,7 @@ public class algorithms {
     //DFS - Graph Traversal
     public static void depthFirstSearch(int start) {
         //Uses Stack
-
         //Visit Vertex V
-
         //Recursively Visit All Unmarked Adjacent to V 
     }
 
@@ -368,7 +367,6 @@ public class algorithms {
     public static void breadthFirstSearch(int start) {
         //Uses Queue
         //Visit Vertex V
-
         //Recursively Visit All Unmarked Adjacent to V 
     }
 
