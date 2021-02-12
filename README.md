@@ -29,8 +29,7 @@ An Implementation of Data Structures and Algorithms, Written in Java
 - Indirect Merge Sort
 - Selection Sort
 - Radix Sort
-- Hash Function
-- Linear Probing
+- Hashing + Linear Probing
 
 ## Problems:
 - Different Floors
