@@ -1,4 +1,4 @@
-# Advanced Data Structures and Algorithms
+# Data Structures and Algorithms
 An Implementation of Data Structures and Algorithms, Written in Java
 
 ## Data Structures:
